@@ -1,0 +1,4 @@
+# pack-refs with: peeled 
+adf4a95904d875a6d371cd62f55c9627785ce186 refs/remotes/origin/android
+0cfb990d58ffba9b56df6e9829ddb9d220824066 refs/remotes/origin/master
+e028bdfa81378c30f682baa022a27b688903e62d refs/remotes/origin/windows
